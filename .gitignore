@@ -1,0 +1,6 @@
+# folders
+env/
+
+
+# files
+*.pyc
